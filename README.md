@@ -9,7 +9,11 @@
 - Hydrant Flow Estimation (First Digit & Percent Method)
 - Multi-line scenarios with Wyes, Manifolds, and Siamese appliances
 
-This app is designed for offline use and is intended to support training, not replace field experience or SOPs.
+It comes with default profiles and also allows for creating profiles containing specific hoses, nozzles, and appliances to be tailored to specific departments or equipment. It can randomly generate quiz questions at run-time using this local data and also allows for importing / exporting profiles to make sharing between members easier.
+
+It contains many learning resources to assist with calculations, and a field calculator where you can design a real-world hoselay that the app will digest and present you with the GPM, PDP, and mathmatical breakdown.
+
+This app is designed to work without needing internet connection and is intended to support education and training, not replace field experience or SOPs.
 
 ---
 
@@ -41,3 +45,4 @@ For contributors or testers:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/do-calcs-buddy.git
+
