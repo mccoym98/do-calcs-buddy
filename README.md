@@ -22,7 +22,6 @@ This app is designed to work without needing internet connection and is intended
 - [Privacy Policy](./PRIVACY_POLICY.md)
 - [Terms of Use](./TERMS_OF_USE.md)
 - [Disclaimer](./DISCLAIMER.md)
-- [License (MIT)](./LICENSE)
 
 Please review before using.
 
@@ -45,4 +44,5 @@ For contributors or testers:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/do-calcs-buddy.git
+
 
